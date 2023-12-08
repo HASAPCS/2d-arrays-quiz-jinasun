@@ -28,7 +28,7 @@ public class TwoDArrayOperations {
             }
         }
         // TODO: Implement the logic to calculate the average of all elements in the 2D array.
-        return sum/array.length; // Placeholder return value
+        return sum/count; // Placeholder return value
     }
 
     // Exercise 3: Find the Minimum Value in a 2D Array
